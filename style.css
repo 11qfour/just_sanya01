@@ -1,6 +1,7 @@
 .header {
     justify-content: center;
     text-align:center;
+    color: purple;
 }
 ol li {
     list-style-position: inside;
@@ -11,6 +12,7 @@ ol li {
 #table {
     line-height:200%
     border: 3px solid black;
+    justify-content: center;
 }
 footer {
     padding-top: 3px;
