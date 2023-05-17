@@ -11,7 +11,8 @@ ol li {
 }
 #table {
     line-height:200%
-    border: 3px solid black;
+    border-top: 3px solid purple;
+    border-bottom: 3px solid purple;
     justify-content: center;
 }
 footer {
